@@ -8,4 +8,5 @@ I got my animations from:
 https://github.com/mnenkov/flipper-zero-animations
 
 https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers/tree/main
+
 maybe another place I forget
